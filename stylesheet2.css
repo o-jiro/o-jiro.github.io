@@ -1,0 +1,133 @@
+body{
+	font-familly:Lucida Grande;
+}
+
+li{
+	list-style:none;
+}
+
+.header{
+  background-color:rgba(255,182,193,0.7);
+  height:70px;
+  width:100%;
+  position:fixed;
+  z-index:10;
+}
+
+.header-logo{
+  color:#efefef;
+  line-height:70px;
+  padding-left:40px;
+}
+
+.header-logo h1{
+	margin:0;
+	height:70px;
+}
+
+.header span{
+	color:#e73562;
+}
+
+.head-wrapper{
+	background-image: url(1586959267007.jpg);
+	height: 400px;
+	background-size:cover;
+	padding:100px 25px;
+}
+
+.container{
+  width:1140px;
+	margin: 0 auto;
+}
+
+.color1{
+	color:#b0c4de;
+	font-size:38px;
+	opacity:0.7;
+	display:inline-block;
+	padding:10px;
+	letter-spacing:10px;
+	float:left;
+}
+.profile-detail{
+	margin:5px 5px 5px 100px;
+	display:inline-block;
+}
+
+.profile-detail li{
+	color:#b0c4de;
+	font-size:26px;
+	opacity:0.8;
+	letter-spacing:3px;
+}
+
+.form{
+	padding-top:50px;
+}
+
+.color2{
+	font-size:20px;
+	margin-top:10px;
+	margin-bottom:5px;
+	padding:20px;
+	border:1px solid #dee7ec;
+}
+
+.form-w{
+	width:400px;
+	margin-right:10px;
+	float:left;
+}
+
+.form-s{
+	background-color:#ffffe0;
+	box-shadow:0px 5px #c1ab05;
+}
+
+.form-s:hover{
+	background-color:#fffacd;
+}
+
+.form-s:active{
+  box-shadow:none;
+  position:relative;
+  top:5px;
+}
+
+.form p{
+  clear:both;
+}
+
+.footer{
+  border-top:1px solid #dee7ec;
+}
+
+.section-title h3{
+  font-size:30px;
+  color:#474a4d;
+}
+.section-title{
+  padding-bottom:5px;
+  border-bottom:2px dotted #dee7ec;
+}
+
+.middle-wrapper{
+  padding:20px 0 30px 0;
+  height:550px;
+}
+
+.member p{
+  color:#595857;
+}
+
+.member{
+  display:inline-block;
+  text-align:center;
+  margin-left:30px;
+  margin-top:15px;
+}
+
+.member img{
+  margin-bottom:5px;
+}
