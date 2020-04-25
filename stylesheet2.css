@@ -1,6 +1,5 @@
 body{
 	font-familly:Lucida Grande;
-	margin:0;
 }
 
 li{
@@ -34,12 +33,12 @@ li{
 	background-image: url(1586959267007.jpg);
 	height: 400px;
 	background-size:cover;
-	padding:100px 25px;
+	padding:100px 0;
 	width:100%;
 }
 
 .container{
-  width:1140px;
+	width:1140px;
 	margin: 0 auto;
 }
 
