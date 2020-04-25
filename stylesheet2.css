@@ -1,5 +1,6 @@
 body{
 	font-familly:Lucida Grande;
+	margin:0;
 }
 
 li{
@@ -34,7 +35,7 @@ li{
 	height: 400px;
 	background-size:cover;
 	padding:100px 25px;
-	width:100%
+	width:100%;
 }
 
 .container{
