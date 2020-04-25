@@ -31,14 +31,14 @@ li{
 
 .head-wrapper{
 	background-image: url(1586959267007.jpg);
+	backgorund-size:cover;
 	height: 400px;
 	padding:100px 0;
 	width:100%;
 }
 
 .container{
-	width:1140px;
-	margin: 0 auto;
+	width:100%;
 }
 
 .color1{
